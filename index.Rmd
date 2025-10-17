@@ -1,0 +1,26 @@
+---
+title: "PART 1"
+author: "Haedodam Kim"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    theme: cosmo
+    toc: yes
+    toc_float:
+      collapsed: true
+---
+
+## Introduction
+In the Greater Chicago area, the presence and quality of sidewalks reveal a clear infrastructure gap between the urban core and surrounding suburbs. While downtown Chicago and well-developed neighborhoods have continuous sidewalks and pedestrian facilities, many suburban areas, such as Niles, Glenview, and Des Plaines, lack safe, walkable paths. This uneven distribution of pedestrian infrastructure reflects differences in urban planning priorities and investment across municipalities. 
+
+## Background
+The shortage of sidewalks in suburban communities is rooted in the auto-oriented suburban design that emerged during the mid-20th century. When many suburbs were developed, city planning prioritized vehicle traffic over pedestrian mobility, leaving little room for sidewalks or crossings. As a result, pedestrian infrastructure was largely excluded from long-term development strategies. 
+
+## Impacts
+Today, the consequences of this design are evident. In many areas, sidewalks abruptly end or turn into grassy shoulders, forcing residents to walk along busy roads. This increases the likelihood of jaywalking and traffic accidents, especially among children, older adults, and people with disabilities who cannot drive. In some neighborhoods, there are no sidewalks leading to public transit stops, which restricts basic mobility and discourages walking as a mode of transportation. This limited walkability can also contribute to health problems such as obesity and chronic diseases. 
+
+## Solutions
+Civic data can help address these inequalities. By combining 311 service request data, infrastructure maps from the Chicago Department of Transportation, and demographic data from the U.S. Census, local governments can identify areas where sidewalk coverage is low but population density or pedestrian activity is high. Such evidence-based approaches can guide more equitable investment in pedestrian infrastructure and improve public safety. 
+
+## Conclusion
+Ultimately, improving sidewalk accessibility is not merely a matter of urban design; it is a matter of public safety, health, equity, and community well-being.
